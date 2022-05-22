@@ -18,7 +18,8 @@ linkedin_username: "daniel-martin-orjeda"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "tactile"
+#theme: "minima"
+remote_theme: benbalter/retlab
 
 rss: rss
 
