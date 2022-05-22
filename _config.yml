@@ -21,7 +21,7 @@ linkedin_username: "daniel-martin-orjeda"
 #theme: "minima"
 remote_theme: benbalter/retlab
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
