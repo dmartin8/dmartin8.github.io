@@ -12,32 +12,33 @@ Taking a trip down memory lane... In order not to lose those links, I leave here
 ## Javascript Theory
 
 - [**SKILLS**]( https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104)
-- JAVASCRIPT **ASINCRONO**: https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
-- TIPS: https://github.com/nas5w/javascript-tips-and-tidbits
+- [JAVASCRIPT **ASINCRONO**](https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono)
+- [TIPS](https://github.com/nas5w/javascript-tips-and-tidbits)
 
 
-- JS es un lenguaje basado en **PROTOTIPOS**: https://medium.com/elblogdejavascript/prototipos-y-herencias-b04655d34772
-- **OPERADORES**: https://www.tektutorialshub.com/typescript/logical-operators-in-typescript/
-- BOOLEAN: https://fettblog.eu/boolean-in-javascript-and-typescript/
+- [JS es un lenguaje basado en **PROTOTIPOS**](https://medium.com/elblogdejavascript/prototipos-y-herencias-b04655d34772)
+- [**OPERADORES**](https://www.tektutorialshub.com/typescript/logical-operators-in-typescript/)
+- [BOOLEAN](https://fettblog.eu/boolean-in-javascript-and-typescript/)
 
-- **PROMISE**, promiseAll https://blog.logrocket.com/understanding-promise-all-in-javascript/
-- DIFERENCIAS ENTRE **OBJECT** Y **MAP**: https://medium.com/dailyjs/7-differences-between-objects-and-maps-in-javascript-bc901dfa9350
+- [**PROMISE**, promiseAll](https://blog.logrocket.com/understanding-promise-all-in-javascript/)
+- [DIFERENCIAS ENTRE **OBJECT** Y **MAP**](https://medium.com/dailyjs/7-differences-between-objects-and-maps-in-javascript-bc901dfa9350)
 
-- API REST **vs** SOAP: https://www.redhat.com/es/topics/integration/whats-the-difference-between-soap-rest#:~:text=REST%20y%20SOAP%20son%20dos,de%20datos%20entre%20aplicaciones%20web.&text=La%20principal%20diferencia%20es%20que,y%20REST%20no%20lo%20es.
-    - https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+- [API REST **vs** SOAP](https://www.redhat.com/es/topics/integration/whats-the-difference-between-soap-rest#:~:text=REST%20y%20SOAP%20son%20dos,de%20datos%20entre%20aplicaciones%20web.&text=La%20principal%20diferencia%20es%20que,y%20REST%20no%20lo%20es.
+    - https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
     
-- **REDUCE()**:  https://medium.com/@xadrijo/un-vistazo-a-la-funci%C3%B3n-reduce-en-javascript-f4459bc4e3aa
+- [**REDUCE()**](https://medium.com/@xadrijo/un-vistazo-a-la-funci%C3%B3n-reduce-en-javascript-f4459bc4e3aa)
 
-- **PATRONES** DE DISEÑO: - STRATEGY: https://medium.com/dottech/patrones-de-dise%C3%B1o-patr%C3%B3n-estrategia-en-javascript-1daec8b5f57c
+- [**PATRONES** DE DISEÑO - STRATEGY](https://medium.com/dottech/patrones-de-dise%C3%B1o-patr%C3%B3n-estrategia-en-javascript-1daec8b5f57c)
 
-- ALGORITMOS: http://www.etnassoft.com/2017/03/24/algoritmos-de-ordenacion-en-javascript-revision-es6/
+- [ALGORITMOS](http://www.etnassoft.com/2017/03/24/algoritmos-de-ordenacion-en-javascript-revision-es6/)
 
-- **I/O** EXPLICACION: https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
+- [**I/O** EXPLICACION](https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono)
 
-- Encontrar un STRING: https://www.neoguias.com/como-encontrar-caracter-en-cadena-javascript/#Usando_el_metodo_includes
-- Eliminar **Repetidos**: https://ajahne.github.io/blog/javascript/2020/02/04/how-to-remove-duplicates-from-an-array-in-javascript.html
-        - https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
-        - https://dev.to/marinamosti/removing-duplicates-in-an-array-of-objects-in-js-with-sets-3fep
+- [Encontrar un STRING](https://www.neoguias.com/como-encontrar-caracter-en-cadena-javascript/#Usando_el_metodo_includes)
+- [Eliminar **Repetidos**] 
+        - [duplicates from an array js](https://ajahne.github.io/blog/javascript/2020/02/04/how-to-remove-duplicates-from-an-array-in-javascript.html)
+        - [same](https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c)
+        - [array of objects](https://dev.to/marinamosti/removing-duplicates-in-an-array-of-objects-in-js-with-sets-3fep)
 - All posibilities of: **instanceof**
 
 ## Angular
@@ -49,10 +50,10 @@ Taking a trip down memory lane... In order not to lose those links, I leave here
         - PWA usa TLS para cifrado web
 <br>Build an Angular and Spring MVC Web Application
 - Herramienta para comprobar optimización de la app: **Lighthouse**
-- ValueChanges and others: https://www.concretepage.com/angular/angular-valuechanges-and-statuschanges
-https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
-- Validators: https://ngrefs.com/latest/forms/validators#pattern
-- Conditional Validation: https://medium.com/ngx/3-ways-to-implement-conditional-validation-of-reactive-forms-c59ed6fc3325
+- [ValueChanges](https://www.concretepage.com/angular/angular-valuechanges-and-statuschanges)
+- [valuechanges and others](https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular)
+- [Validators](https://ngrefs.com/latest/forms/validators#pattern)
+- [Conditional Validation](https://medium.com/ngx/3-ways-to-implement-conditional-validation-of-reactive-forms-c59ed6fc3325)
 - [Cookies](https://itnext.io/angular-8-how-to-use-cookies-14ab3f2e93fc)
 - [Graphics](https://valor-software.com/ng2-charts/#/DoughnutChart)
 
@@ -63,11 +64,10 @@ https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
 ## RECURSOS FRONT
 - [GRID](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS docs](https://cssreference.io/)
-- :art: Free visual elements: https://dev.to/bmsteven/5-resources-i-use-as-a-front-end-developer-that-you-probably-need-1odj
-- Animaciones: https://animate.style/
+- [Free visual elements](https://dev.to/bmsteven/5-resources-i-use-as-a-front-end-developer-that-you-probably-need-1odj)
+- [Animaciones](https://animate.style/)
 - 
-## Mongo
-https://charlascylon.com/2013-07-10-tutorial-mongodb-operaciones-de-consulta-avanzadas
+## [Mongo](https://charlascylon.com/2013-07-10-tutorial-mongodb-operaciones-de-consulta-avanzadas)
 
 ## BLOGS
 <br> [Js...](https://dmitripavlutin.com/)
