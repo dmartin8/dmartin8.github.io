@@ -48,7 +48,7 @@ Taking a trip down memory lane... In order not to lose those links, I leave here
 - [CSS docs](https://cssreference.io/)
 - [Free visual elements](https://dev.to/bmsteven/5-resources-i-use-as-a-front-end-developer-that-you-probably-need-1odj)
 - [Animaciones](https://animate.style/)
-- 
+
 ## [Mongo](https://charlascylon.com/2013-07-10-tutorial-mongodb-operaciones-de-consulta-avanzadas)
 
 ## Blogs
