@@ -5,9 +5,7 @@ A long time ago, before I decide to write on this blog, I used to organize inter
 Taking a trip down memory lane... In order not to lose those links, I leave here what was my github list (time when my role was front end)
 
 ---
-**NOTE**
-
-# Web-Development-Links
+**Web-Development-Links** (2021)
 
 ## Javascript Theory
 
@@ -60,7 +58,6 @@ Taking a trip down memory lane... In order not to lose those links, I leave here
 ## React
 - From Angular to [React](https://www.robinwieruch.de/reasons-why-i-moved-from-angular-to-react)
 
-
 ## RECURSOS FRONT
 - [GRID](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS docs](https://cssreference.io/)
@@ -73,18 +70,18 @@ Taking a trip down memory lane... In order not to lose those links, I leave here
 <br> [Js...](https://dmitripavlutin.com/)
 <br> [¿What is refactoring?](https://www.bmc.com/blogs/code-refactoring-explained/#)
 <br> [Monorrepos](https://medium.com/tauon/trabajando-con-monorepos-cf941c7d57dc)
-<br> Mongo... https://www.slideshare.net/gootyfer/full-metal-mongo
-<br> Fast guide about web APIs: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs   
-<br> API Express MongoDb y TS: https://ichi.pro/es/como-disenar-api-rest-usando-express-mongodb-y-typescript-64732424837493
-<br> API REST: https://carlosazaustre.es/como-crear-una-api-rest-usando-node-js
-<br> ¿NodeJS? https://www.escuelajavascript.com/todo-lo-que-necesitas-saber-de-nodejs/
-<br>https://hackernoon.com/node-red-module-for-visual-nodejs-programming-mx3i34j2
-<br> https://javascript.plainenglish.io/make-your-ecommerce-app-10x-faster-by-creating-it-with-node-js-c96cfff79a4
-<br>  https://medium.com/dailyjshttps://medium.com/dailyjs
-<br> https://midu.dev/
-<br> Pet Project? https://albertot.dev/pet-projects-como-lo-haceis/
-<br> Web Assembly: https://pablomagaz.com/blog/empezando-con-webassembly
-<br> Angular GDE: https://fluin.io/blog/how-to-become-an-angular-gde
+<br> [Mongo...](https://www.slideshare.net/gootyfer/full-metal-mongo) 
+<br> [Fast guide about web APIs]https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs   
+<br> [API Express MongoDb y TS](https://ichi.pro/es/como-disenar-api-rest-usando-express-mongodb-y-typescript-64732424837493)
+<br> [API REST](https://carlosazaustre.es/como-crear-una-api-rest-usando-node-js)
+<br> [NodeJS](https://www.escuelajavascript.com/todo-lo-que-necesitas-saber-de-nodejs/)
+<br> [Red module for node](https://hackernoon.com/node-red-module-for-visual-nodejs-programming-mx3i34j2)
+<br> [node ecommere](https://javascript.plainenglish.io/make-your-ecommerce-app-10x-faster-by-creating-it-with-node-js-c96cfff79a4)
+<br>  [daily](https://medium.com/dailyjshttps://medium.com/dailyjs)
+<br> [midu](https://midu.dev/)
+<br> [Pet Project](https://albertot.dev/pet-projects-como-lo-haceis/)
+<br> [Web Assembly](https://pablomagaz.com/blog/empezando-con-webassembly)
+<br> [Angular GDE](https://fluin.io/blog/how-to-become-an-angular-gde)
 
 ## Rutas de aprendizaje
 <br> **[Web Development Roadmap](https://github.com/kamranahmedse/developer-roadmap)**
@@ -93,53 +90,24 @@ Taking a trip down memory lane... In order not to lose those links, I leave here
 <br> [_Mobile App Web Stack_](https://medium.com/@zenorocha/the-technology-stack-i-used-to-build-my-first-mobile-app-a5c13b81ff69)
 
 ## BIBLIOGRAFIA
-<br> NOW: [Fullstack React Book](https://demo.smarttrainerlms.com/uploads/0003/trainings/course/45/modules/fullstack-react-book-r30_1510302324482009603.pdf)
-<br>(TODO: [take a look](https://medium.com/javarevisited/5-best-react-js-books-for-beginners-and-experienced-web-developers-e7b90b1ab9d2))
+<br>[Fullstack React Book](https://demo.smarttrainerlms.com/uploads/0003/trainings/course/45/modules/fullstack-react-book-r30_1510302324482009603.pdf)
+<br>[take a look](https://medium.com/javarevisited/5-best-react-js-books-for-beginners-and-experienced-web-developers-e7b90b1ab9d2)
 <br>
-https://medium.com/@iamjwr/software-engineer-roadmap-via-books-a6aabdc2589c
+[software engineer books](https://medium.com/@iamjwr/software-engineer-roadmap-via-books-a6aabdc2589c)
 <br>
 
-<br> (Best books...https://www.codeinwp.com/blog/best-javascript-books/)
+<br> [Best books js](https://www.codeinwp.com/blog/best-javascript-books/)
 <br> High-Performance Browser Networking
 <br> “ng-book – A Complete Book on Angular” by Nathan Murray
 <br> “NodeJS in Action” by Alex R. Young
 <br> “Getting MEAN with Mongo, Express, Angular, and Node” by Simon Holmes
 <br> “**Visual Storytelling with D3**” by Ritchie S. King King
-<br> **Refactoring: Improving the Design of Existing Code**, 2nd Edition https://ajahne.github.io/blog/javascript/books/2019/09/15/most-referenced-refactorings-martin-fowler-nodejs-pdfjs-chartjs.html
+<br> **Refactoring: Improving the Design of Existing Code**, [2nd Edition](https://ajahne.github.io/blog/javascript/books/2019/09/15/most-referenced-refactorings-martin-fowler-nodejs-pdfjs-chartjs.html)
 <br> **Design Patterns**: Elements of Reusable Object-Oriented Software
-<br> Books: https://github.com/twhite96/js-dev-reads#things-to-think-about-thinking
+<br> [things to think about thinking](https://github.com/twhite96/js-dev-reads#things-to-think-about-thinking)
 <br> Extreme Programming Explained EMbrace Change. Kent Beck
 ### **LINUX**
 - How Linux Works : What Every Superuser Should Know
 
 ### **Cybersecurity**
-- 8 en https://ciberninjas.com/14-mejores-sitios-aprender-hackear/
-
-
-### Trucos
-- n8n para preproyecto
-
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+- [sandbox](https://ciberninjas.com/14-mejores-sitios-aprender-hackear/)
