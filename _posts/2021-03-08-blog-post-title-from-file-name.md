@@ -62,23 +62,17 @@ https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
 
 ## RECURSOS FRONT
 - [GRID](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- CSS docs: https://cssreference.io/
+- [CSS docs](https://cssreference.io/)
 - :art: Free visual elements: https://dev.to/bmsteven/5-resources-i-use-as-a-front-end-developer-that-you-probably-need-1odj
 - Animaciones: https://animate.style/
-
-## MySQL
-TODO:
-
+- 
 ## Mongo
 https://charlascylon.com/2013-07-10-tutorial-mongodb-operaciones-de-consulta-avanzadas
 
-## Laravel
- - [Manual](https://desarrolloweb.com/manuales/manual-laravel-5.html)
-
 ## BLOGS
-<br> Js... https://dmitripavlutin.com/
-<br> ¿What is refactoring? https://www.bmc.com/blogs/code-refactoring-explained/#
-<br> Monorrepos: https://medium.com/tauon/trabajando-con-monorepos-cf941c7d57dc
+<br> [Js...](https://dmitripavlutin.com/)
+<br> [¿What is refactoring?](https://www.bmc.com/blogs/code-refactoring-explained/#)
+<br> [Monorrepos](https://medium.com/tauon/trabajando-con-monorepos-cf941c7d57dc)
 <br> Mongo... https://www.slideshare.net/gootyfer/full-metal-mongo
 <br> Fast guide about web APIs: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs   
 <br> API Express MongoDb y TS: https://ichi.pro/es/como-disenar-api-rest-usando-express-mongodb-y-typescript-64732424837493
