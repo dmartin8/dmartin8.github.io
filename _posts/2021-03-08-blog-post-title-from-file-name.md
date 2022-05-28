@@ -1,4 +1,4 @@
-### My first post!
+### Don't lose history!
 
 A long time ago, before I decided to write on this blog, I used to organize interesting stuff adding links to my github index. Hereinafter, the information will flow over these pages. 
 
