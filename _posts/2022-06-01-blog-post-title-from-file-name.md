@@ -1,6 +1,6 @@
 ### Quick look at Trunk-based development
 
-One day, bring the code you are working on will be as easy as pressing a button on your IDE. Meanwhile, development methodologies have the solution:
+One day, bring the code you are working on to production will be as easy as pressing a button on your IDE. Meanwhile, development methodologies have the solution:
 Trunk-based methodology. Also identifeid as TBD, a way of working whose main objective is to reduce time. As for example,
 the time between your commit and the user feedback. To that end, TBD proposes  us to always work in the main development branch; or what is the same: Trunk.
 So, here are some of the properties.
