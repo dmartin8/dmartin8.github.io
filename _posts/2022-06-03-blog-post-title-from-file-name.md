@@ -1,4 +1,4 @@
-### Practices towards Continious Deployment!
+### Practices towards Continious Deployment
 
 // TODO: resume notes+links
 
