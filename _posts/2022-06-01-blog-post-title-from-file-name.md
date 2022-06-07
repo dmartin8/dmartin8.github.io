@@ -9,7 +9,7 @@ So, here are some of the properties.
 Changes are uploaded once a day and always ready to version and deployment. If there is something we do not want to show, we must follow strategies like: features flags or branch by abstraction.
 
 #### Git hooks
-A tool that allows us to test before commit.
+A tool that allows us to test before a git action. Inside ./git/hooks there are the files you can prepare. Example: if you would like to do tests automatically before a commit, you shall incate it in pre-commit file (exec youTestCommand)
 
 #### Version by commit date
 For this, it is necesary two components:
